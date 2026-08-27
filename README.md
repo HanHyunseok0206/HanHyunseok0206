@@ -1,4 +1,4 @@
-## Hi there 👋
+## Goal
 
 <!--
 **HanHyunseok0206/HanHyunseok0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
